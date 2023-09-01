@@ -1,3 +1,5 @@
+![](githubphoto.jpg)
+
 ### Hi there 👋
 
 👋 Hi there! I'm Walid, a passionate software engineering student at 42 Wolfsburg. 🚀
