@@ -1,4 +1,4 @@
-![](githubphoto.png)
+![](githubphoto.jpg)
 
 ### Hi there 👋
 
