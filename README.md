@@ -6,7 +6,7 @@
 
 🎓 I hold a bachelor's degree in Business Informatics from the Lebanese University, where I gained a solid foundation in both business and technology.
 
-💻 My love for coding and problem-solving led me to the world of software development. I'm enthusiastic about web development, and I'm always eager to learn and explore new technologies and frameworks.
+💻 My love for coding and problem-solving led me to the world of software development. I'm enthusiastic about programming and web development, and I'm always eager to learn and explore new technologies and frameworks.
 
 📈 In addition to my technical pursuits, I have a keen interest in business and economics. I believe that the fusion of technology and business acumen can drive innovation and create solutions that have a real impact on the world.
 
